@@ -13,3 +13,4 @@ else
 fi
 
 # [ is the test command and evaluates subsequent expression and returns exit code (if 0 , then is executed )
+#  logical operators -> && , || , !  , -a , -o      other ->  ; , &
